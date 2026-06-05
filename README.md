@@ -1,31 +1,31 @@
 # FUTURE_CS_02-Security-Alert-Monitoring-Incident-Response
 Security Alert Monitoring &amp; Incident Response. Includes simulated SIEM alert monitoring, incident classification, and a detailed incident response report with remediation recommendations.
-# Cybersecurity Internship - Task 2  
-**Security Alert Monitoring & Incident Response**  
+Cybersecurity Internship - Task 2  
+Security Alert Monitoring & Incident Response
 
-## 📌 Task Overview  
+Task Overview  
 Monitor simulated security alerts using a SIEM tool, identify suspicious activities, classify incidents, and draft an incident response report.  
 
-## 🛠️ Tools Used  
+Tools Used  
 - Elastic Stack (ELK)  
 - Splunk Free Trial  
 - Sample Log Files  
 
-## 🎯 Skills Gained  
+Skills Gained  
 - Log Analysis  
 - Alert Triage  
 - Incident Classification  
 - SOC Operations Basics  
 
-## 📑 Deliverable  
+ Deliverable  
 - [Incident Response Report](Incident_Response_Report.docx)  
 
-## 📊 Key Findings  
+Key Findings  
 - Multiple failed login attempts → Possible brute-force attack.  
 - Successful login after failed attempts → Account compromise.  
 - Privilege escalation detected → Post-compromise activity.  
 
-## 🔒 Remediation Recommendations  
+ Remediation Recommendations  
 - Enforce strong password policies & enable MFA.  
 - Block suspicious IPs and monitor login attempts.  
 - Reset credentials of compromised accounts.  
@@ -34,4 +34,4 @@ Monitor simulated security alerts using a SIEM tool, identify suspicious activit
 
 ---
 
-✨ This project is part of my **Cybersecurity Internship at Future Interns**.  
+This project is part of my Cybersecurity Internship at Future Interns.  
